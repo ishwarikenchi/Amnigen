@@ -33,7 +33,7 @@ AnimGen is a React-based platform that converts natural language descriptions in
 
    ```env
    # .env file
-   API_KEY=AIzaSy...YourKeyHere
+   API_KEY="Your_Key_Here"
    
    # Optional: Custom Port
    PORT=enter your port
