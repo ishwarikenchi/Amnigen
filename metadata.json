@@ -1,0 +1,5 @@
+{
+  "name": "AnimGen - AI Educational Video Generator",
+  "description": "A text-to-animation platform that converts educational concepts into visual explanatory videos using AI-generated instructions.",
+  "requestFramePermissions": []
+}
